@@ -80,5 +80,12 @@ export default [
         );
       }
     }
+  },
+  {
+    tag: "input",
+    name: "terms_and_conditions",
+    type: "checkbox",
+    human_label: "Terms and Conditions",
+    group: "legal",
   }
 ];
