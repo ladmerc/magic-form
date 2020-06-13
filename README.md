@@ -1,3 +1,3 @@
-# Basic Example
+# magic-form
+To get started run `npm install` to install the dependencies. After installation, run `npm start`. It should open `http://localhost:3000/` on your default browser.
 
-A simple [create-react-app](CRA-README.md) setup, showcasing one of the lastest React-Bootstrap components!
